@@ -91,7 +91,7 @@ http://localhost/book-request-system/
 
 ---
 
-## 🔑 Default Credentials
+##  Default Credentials
 
 | Role | Username | Password |
 |------|----------|----------|
